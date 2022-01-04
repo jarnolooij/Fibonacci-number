@@ -157,7 +157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5, y: -64.90698}
+  m_AnchoredPosition: {x: -5.0001225, y: -64.906975}
   m_SizeDelta: {x: 350.1032, y: 74.396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &62106603
@@ -291,7 +291,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.0000134, y: 55.418015}
+  m_AnchoredPosition: {x: -5.0000973, y: 55.418064}
   m_SizeDelta: {x: 606.8728, y: 55.418}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &88233229
@@ -427,7 +427,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000015259, y: -157}
+  m_AnchoredPosition: {x: -0.00010752678, y: -157.00002}
   m_SizeDelta: {x: 225.1847, y: 94.5112}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &382814415
@@ -1076,7 +1076,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.0000134, y: 0}
+  m_AnchoredPosition: {x: -5.0000973, y: 0.000014781952}
   m_SizeDelta: {x: 606.8728, y: 55.418}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1646298461
@@ -1214,8 +1214,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.7252197, y: -4.313202}
-  m_SizeDelta: {x: 79.3624, y: 67.2855}
+  m_AnchoredPosition: {x: 0.69000244, y: -1.8981934}
+  m_SizeDelta: {x: 210.7616, y: 282.4556}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1788128950
 MonoBehaviour:
@@ -1303,12 +1303,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1200, y: 700}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
