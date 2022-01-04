@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.Audio;
 
 public class FibonacciSequence : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class FibonacciSequence : MonoBehaviour
     private bool next;
 
     public TMP_Text numberCounter;
+    public AudioSource audioSource;
     void Start()
     {
         //set some things to default
@@ -27,6 +29,7 @@ public class FibonacciSequence : MonoBehaviour
     {
         F++;
         next = true;
+        audioSource.Play();
     }
 
     void Update()
