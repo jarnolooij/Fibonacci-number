@@ -4,6 +4,8 @@ In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, the
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ... and so on.
 
-I created a App where u can see what the next numbers in the Fibonacci sequence are.
+I created a App where u can see what the next numbers in the Fibonacci sequence are. For the background i created a Shader using the ShaderGraph. And used the Universal Render Pipeline as Shader Asset.
 
-Just press the button.
+Just press the button to acctivate the next number. Also the button has a basic sound effect.
+
+~ Jarno Looij
